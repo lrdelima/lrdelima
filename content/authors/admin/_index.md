@@ -9,21 +9,33 @@ interests:
   - percolation
   - and their properties on algebraic and random structures
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7116-430X
+    label: ORCiD
+    display:
+      header: true
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=YZ4ztIEAAAAJ&hl
+    label: Google Scholar
+  - icon: researcherid
+    icon_pack: ai
+    link: https://publons.com/researcher/1854836/lucas-r-de-lima/
+    label: ResearcherId
+  - icon: lattes
+    icon_pack: ai
+    link: http://lattes.cnpq.br/2826721909818247
+    label: Lattes CV
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Lucas-De-Lima
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate
 organizations:
   - name: University of Groningen
   - name: Federal University of ABC
