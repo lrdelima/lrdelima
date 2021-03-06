@@ -27,9 +27,6 @@ social:
     icon_pack: ai
     link: http://lattes.cnpq.br/2826721909818247
     label: Lattes CV
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - display:
       header: false
     link: https://www.researchgate.net/profile/Lucas-De-Lima
