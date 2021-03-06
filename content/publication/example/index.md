@@ -1,8 +1,8 @@
 ---
 abstract: We study the minimal random walk introduced by Kumar et al (2014 Phys.
-  Rev. E 90 022136). It is a random process on $\{0,1 \dots\}$ with unbounded
-  memory which exhibits subdiffusive, diffusive and superdiffusive regimes. We
-  prove the law of large numbers for the whole parameter set. Then we prove the
+  Rev. E 90 022136). It is a random process on {0,1, ...} with unbounded memory
+  which exhibits subdiffusive, diffusive and superdiffusive regimes. We prove
+  the law of large numbers for the whole parameter set. Then we prove the
   central limit theorem and the law of the iterated logarithm for the minimal
   random walk under diffusive and marginally superdiffusive behaviors. More
   interestingly, we establish a result for the minimal random walk when it
@@ -33,9 +33,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
