@@ -1,12 +1,13 @@
 ---
 title: Lucas R. de Lima
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Ph.D. student in Matematics
+bio: My research interests include probability, interacting systems,
+  percolation, and their properties on algebraic and random structures.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Probability
+  - interacting systems
+  - percolation
+  - and their properties on algebraic and random structures
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,9 +45,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lucas R. de Lima is a PhD student at the Federal University of ABC, Brazil. He received his master (2020) and bachelor (2018) degrees in Mathematics  from the Federal University of ABC and a bachelor degree in Science and Technology (2017) from the same university. He attended two semesters as an exchange student in the BSc in Mathematics at the Freie Universität Berlin (CsF / CAPES, 2014-2016).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
